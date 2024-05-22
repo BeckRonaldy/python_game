@@ -18,4 +18,4 @@ Um simples jogo da cobrinha feito em Python :)
 
 **Game Over** - Quando o jogo termina, a tela exibe uma mensagem de "Game Over" junto com opções para reiniciar o jogo ou sair.
 
-**Pontuação** - Geralmente, a pontuação aumenta conforme a cobra come mais comida. Cada peça de comida consumida pode adicionar um ponto à pontuação total do jogador.
+**Pontuação** - A pontuação aumenta conforme a cobra come mais comida. Cada peça de comida consumida pode adicionar um ponto à pontuação total do jogador.
